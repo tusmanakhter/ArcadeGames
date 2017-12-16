@@ -10,9 +10,5 @@ To play a game, simply open the page on a web browser.
 
 # Games Included
 
-- Pong 
-
-# Games to be added
-
+- Pong
 - Snake
-- Brick Breaker
